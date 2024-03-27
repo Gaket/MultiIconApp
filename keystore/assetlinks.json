@@ -1,0 +1,38 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.getsquire.bookingapp",
+      "sha256_cert_fingerprints": [
+        "61:4c:b7:d2:9c:dd:96:ec:3a:d9:6c:a3:71:b4:91:f5:b5:b8:c7:27"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.getsquire.bookingapp",
+      "sha256_cert_fingerprints": [
+        "43:1A:10:C4:9D:0C:F5:72:95:E7:24:FB:F6:CC:BC:83:03:65:B2:3F"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.getsquire.bookingapp.debug",
+      "sha256_cert_fingerprints": [
+        "61:4c:b7:d2:9c:dd:96:ec:3a:d9:6c:a3:71:b4:91:f5:b5:b8:c7:27"
+      ]
+    }
+  }
+]

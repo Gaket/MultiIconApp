@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "822540133755",
+    "project_id": "squire-booking-app",
+    "storage_bucket": "squire-booking-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822540133755:android:4b320be8763422cec749de",
+        "android_client_info": {
+          "package_name": "com.getsquire.bookingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt2vTCUvi_WDBwlIbB4XvO4puWw-k8nLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
